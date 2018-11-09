@@ -14,7 +14,7 @@ Please consider to cite our paper when you use our database:
 @article{zhang2019EnsNet,
   title     = {EnsNet: Ensconce Text in the Wild},
   author    = {Shuaitao Zhang∗, Yuliang Liu∗, Lianwen Jin†, Yaoxiong Huang, Songxuan Lai},
-  jurnal    = {AAAI},
+  journal    = {AAAI},
   year      = {2019}
 }
 ```
