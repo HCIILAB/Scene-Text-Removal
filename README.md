@@ -7,10 +7,17 @@ A synthetic benchmark database for scene text removal is now released by Human C
 
 The training set consists of a total of 8000 images and the test set contains 800 images; all the training and test samples are resized to 512 × 512. The code for generating synthetic dataset and more synthetic text images as described in “ Synthetic Data for Text localisation in Natural Images"（CVPR2016）can be found in (https://github.com/ankush-me/SynthText).
 
-## 2 Paper and Contact
+## 2 Paper
 
 The corresponding paper is coming soon
 
-Note: The synthetic database can be only used for non-commercial research purpose. 
+## 3 Feedback
 
-For any questions about this database please contact the authors by sending email to `eestzhang@mail.scut.edu.cn` or `lianwen.jin@gmail.com`.
+Suggestions and opinions of dataset of this datset (both positive and negative) are greatly welcome. Please contact the authors by sending email to eestzhang@mail.scut.edu.cn.
+## 4 Copyright
+
+The synthetic database can be only used for non-commercial research purpose. 
+
+For commercial purpose usage. Please  Dr. Lianwen Jin: lianwen.jin@gmail.com.
+
+Copyright 2018, Deep Learning and Vision Computing Lab, South China University of Teacnology.http://www.dlvclab.net
