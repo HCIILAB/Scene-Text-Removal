@@ -1,5 +1,6 @@
 # EnsNet-Ensconce-Text-in-the-Wild
-Dataset  for our paper " EnsNet: Ensconce Text in the Wild " appearing in AAAI 2019
+Dataset  for our paper " EnsNet: Ensconce Text in the Wild " appearing in AAAI 2019.
+
 A synthetic benchmark database for scene text removal is now released by Human Computer Intelligent Interaction Lab of South China University of Technology. The database can be downloaded through the following links:
 * (https://pan.baidu.com/s/1Ff2W2VLJ1ZbWSeV5JbF0Iw  PASSWORD: if7p) (Size = 172MB).
 
