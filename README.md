@@ -1,7 +1,7 @@
 # SCENE TEXT REMOVAL
 
 A synthetic benchmark database for scene text removal is now released by Human Computer Intelligent Interaction Lab of South China University of Technology. The database can be downloaded through the following links:
-* (https://pan.baidu.com/s/1Ff2W2VLJ1ZbWSeV5JbF0Iw  PASSWORD: if7p) (Size = 172MB).
+* (链接: https://pan.baidu.com/s/1wwBwgm-n2A7iykoD0i37iQ PASSWORD: vk8f) (Size = 6.3G).
 
 ## 1 Description
 
