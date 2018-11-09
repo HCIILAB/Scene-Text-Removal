@@ -13,7 +13,7 @@ The corresponding paper is coming soon
 
 ## 3 Feedback
 
-Suggestions and opinions of dataset of this datset (both positive and negative) are greatly welcome. Please contact the authors by sending email to eestzhang@mail.scut.edu.cn.
+Suggestions and opinions of dataset of this dataset (both positive and negative) are greatly welcome. Please contact the authors by sending email to eestzhang@mail.scut.edu.cn.
 ## 4 Copyright
 
 The synthetic database can be only used for non-commercial research purpose. 
