@@ -9,7 +9,14 @@ The training set consists of a total of 8000 images and the test set contains 80
 
 ## 2 Paper
 
-The corresponding paper is coming soon
+Please consider to cite our paper when you use our database:
+
+@article{liang2017SCUT,
+  title     = {EnsNet: Ensconce Text in the Wild},
+  author    = {Shuaitao Zhang∗, Yuliang Liu∗, Lianwen Jin†, Yaoxiong Huang, Songxuan Lai
+  joural    = {AAAI}
+  year      = {2019}
+}
 
 ## 3 Feedback
 
