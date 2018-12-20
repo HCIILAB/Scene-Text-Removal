@@ -7,7 +7,7 @@
 
 The training set consists of a total of 8000 images and the test set contains 800 images; all the training and test samples are resized to 512 × 512. The code for generating synthetic dataset and more synthetic text images as described in “ Synthetic Data for Text localisation in Natural Images"（CVPR2016）can be found in (https://github.com/ankush-me/SynthText).
 
-For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00723)
+For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00723).
 
 ## 2 Paper
 
