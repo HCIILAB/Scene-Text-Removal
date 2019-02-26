@@ -8,14 +8,14 @@
  * Yunpan : (link: https://pan.baidu.com/s/1WBvB1kS1BcmgrDi9c1Me9Q PASSWORD: knr7).
  * Google Driver : (link: https://drive.google.com/file/d/1G0d6yQwYEDhJdZH-S8mYWTXltJRG3Mg1/view?usp=sharing).
   Note: The real scene text removal dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the database, please first fill in this [Application Form](https://github.com/HCIILAB/Scene-Text-Removal/blob/master/Application_Form_for_Using_Scene_Text_Removal.docx) and send it via email to us (lianwen.jin@gmail.com). We will give you the decompression password after your letter has been received and approved. 
-## 1 Description
+## Description
 
 The training set of synthetic database consists of a total of 8000 images and the test set contains 800 images; all the training and test samples are resized to 512 × 512. The code for generating synthetic dataset and more synthetic text images as described in “ Synthetic Data for Text localisation in Natural Images"（CVPR2016）can be found in (https://github.com/ankush-me/SynthText).
 Besides, all the real scene text images are also resized to 512 × 512.
 
 For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00723).
 
-## 2 Paper
+## Paper
 
 Please consider to cite our paper when you use our database:
 ```
@@ -26,10 +26,11 @@ Please consider to cite our paper when you use our database:
   year      = {2019}
 }
 ```
-## 3 Feedback
+## Feedback
 
-Suggestions and opinions of dataset of this dataset (both positive and negative) are greatly welcome. Please contact the authors by sending email to eestzhang@mail.scut.edu.cn.
-## 4 Copyright
+Suggestions and opinions of dataset of this dataset (both positive and negative) are greatly welcome. Please contact the authors by sending email to eestzhang@mail.scut.edu.cn  or eelwjin@scut.edu.cn.
+
+## Copyright
 
 The synthetic database can be only used for non-commercial research purpose. 
 
