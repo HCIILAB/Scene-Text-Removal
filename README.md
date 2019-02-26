@@ -34,6 +34,6 @@ Suggestions and opinions of dataset of this dataset (both positive and negative)
 
 The synthetic database can be only used for non-commercial research purpose. 
 
-For commercial purpose usage. Please  Dr. Lianwen Jin: lianwen.jin@gmail.com.
+For commercial purpose usage, please contact Dr. Lianwen Jin: lianwen.jin@gmail.com.
 
 Copyright 2018, Deep Learning and Vision Computing Lab, South China University of Teacnology.http://www.dlvc-lab.net
