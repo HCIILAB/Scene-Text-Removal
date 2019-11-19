@@ -185,7 +185,7 @@ if __name__ == '__main__':
                         help='Height of the input image')
     parser.add_argument('--n_epoch', nargs='?', type=int, default=1000, 
                         help='# of the epochs')
-    parser.add_argument('--batch_size', nargs='?', type=int, default=10, 
+    parser.add_argument('--batch_size', nargs='?', type=int, default=1, 
                         help='Batch Size')
     parser.add_argument('--lr', nargs='?', type=float, default=0.0005, 
                         help='Learning Rate')
