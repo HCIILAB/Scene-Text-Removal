@@ -24,9 +24,9 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
 
 ##Installation
   1. Clone this respository.
-     '''
+     """
      git clone https://github.com/HCIILAB/Scene-Text-Removal
-     '''
+     """
   2.
 
 ## Paper
