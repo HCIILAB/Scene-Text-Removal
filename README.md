@@ -50,7 +50,9 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
   --result=[path to save the output images]
   ```
   ### 4. Pretrained models
-  Please download the ImageNet pretrained models [vgg16](), and put it under 
+  Please download the ImageNet pretrained models [vgg16](https://pan.baidu.com/s/1Ep83Wc0DHY8rQHaNZM8oPQ 
+
+)提取码：8tof, and put it under 
   ```
   root/.mxmet/models/
   ```
