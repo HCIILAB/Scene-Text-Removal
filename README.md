@@ -38,8 +38,17 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
      --checkpoint=[path save the model] \
      --gpu=[use gpu] \
      --lr=[Learning Rate] \
-     ...
+     --n_epoch=[Number of iterations]
      ```
+  ### Testing
+  To output the generated results of the inputs, you can use the [test.py]. Please run the following code:
+  ```
+  python test.py \
+  --test_image=[the path of test images] \
+  --model=[which model to be test] \
+  --vis=[ vis images] \
+  --result=[path to save the output images]
+  ```
 
 ## Paper
 
