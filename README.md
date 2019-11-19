@@ -67,7 +67,7 @@ Please consider to cite our paper when you use our database:
 ```
 ## Feedback
 
-Suggestions and opinions of dataset of this dataset (both positive and negative) are greatly welcome. Please contact the authors by sending email to eestzhang@mail.scut.edu.cn  or eelwjin@scut.edu.cn.
+Suggestions and opinions of dataset of this dataset (both positive and negative) are greatly welcome. Please contact the authors by sending email to eestzhang@mail.scut.edu.cn.
 
 ## Copyright
 
