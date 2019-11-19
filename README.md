@@ -22,12 +22,24 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
 4. Matplotlib.
 5. Numpy.
 
-##Installation
+## Installation
   1. Clone this respository.
      ```
      git clone https://github.com/HCIILAB/Scene-Text-Removal
      ```
-  2.
+## Running
+ ### 1. Image Prepare
+     You can refer to our given example to store data.
+ ### 2. Training
+     To train our model, you may need to change the path of dataset or the parameters of the network etc. Then run the following code:
+     ```
+     python train.py \
+     --trainset_path=[the path of dataset] \
+     --checkpoint=[path save the model] \
+     --gpu=[use gpu] \
+     --lr=[Learning Rate] \
+     ...
+     ```
 
 ## Paper
 
