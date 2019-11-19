@@ -31,7 +31,7 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
   ### 1. Image Prepare
      You can refer to our given example to store data.
   ### 2. Training
-     To train our model, you may need to change the path of dataset or the parameters of the network etc. Then run the following code:
+  To train our model, you may need to change the path of dataset or the parameters of the network etc. Then run the following code:
      ```
      python train.py \
      --trainset_path=[the path of dataset] \
