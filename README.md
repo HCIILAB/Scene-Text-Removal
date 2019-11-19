@@ -41,7 +41,7 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
   --n_epoch=[Number of iterations]
   ```
   ### 3. Testing
-  To output the generated results of the inputs, you can use the [test.py]. Please run the following code:
+  To output the generated results of the inputs, you can use the [test.py](). Please run the following code:
   ```
   python test.py \
   --test_image=[the path of test images] \
@@ -49,8 +49,8 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
   --vis=[ vis images] \
   --result=[path to save the output images]
   ```
-  ###4. Pretrained models
-  Please download the ImageNet pretrained models [vgg16](),and put it under 
+  ### 4. Pretrained models
+  Please download the ImageNet pretrained models [vgg16](), and put it under 
   ```
   root/.mxmet/models/
   ```
