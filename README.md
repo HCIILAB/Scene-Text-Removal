@@ -40,7 +40,7 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
   --lr=[Learning Rate] \
   --n_epoch=[Number of iterations]
   ```
-   ### 3. Testing
+  ### 3. Testing
   To output the generated results of the inputs, you can use the [test.py]. Please run the following code:
   ```
   python test.py \
@@ -49,7 +49,11 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
   --vis=[ vis images] \
   --result=[path to save the output images]
   ```
-
+  ###4. Pretrained models
+  Please download the ImageNet pretrained models [vgg16](),and put it under 
+  ```
+  root/.mxmet/models/
+  ```
 ## Paper
 
 Please consider to cite our paper when you use our database:
