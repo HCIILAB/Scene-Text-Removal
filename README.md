@@ -28,9 +28,9 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
      git clone https://github.com/HCIILAB/Scene-Text-Removal
      ```
 ## Running
- ### 1. Image Prepare
+  ### 1. Image Prepare
      You can refer to our given example to store data.
- ### 2. Training
+  ### 2. Training
      To train our model, you may need to change the path of dataset or the parameters of the network etc. Then run the following code:
      ```
      python train.py \
@@ -40,7 +40,7 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
      --lr=[Learning Rate] \
      --n_epoch=[Number of iterations]
      ```
-  ### Testing
+   ### 3. Testing
   To output the generated results of the inputs, you can use the [test.py]. Please run the following code:
   ```
   python test.py \
