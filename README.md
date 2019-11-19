@@ -16,7 +16,7 @@ Besides, all the real scene text images are also resized to 512 × 512.
 For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00723).
 
 ## Requirements
-1. Mxnet==1.2.
+1. Mxnet==1.3.1
 2. Python2.
 3. NVIDA GPU+ CUDA 8.0.
 4. Matplotlib.
