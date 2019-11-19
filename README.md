@@ -29,7 +29,7 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
      ```
 ## Running
   ### 1. Image Prepare
-     You can refer to our given example to store data.
+     You can refer to our given example to put data.
   ### 2. Training
   To train our model, you may need to change the path of dataset or the parameters of the network etc. Then run the following code:
   ```
