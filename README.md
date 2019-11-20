@@ -49,6 +49,7 @@ For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00
   --vis=[ vis images] \
   --result=[path to save the output images]
   ```
+  To evalution the model performace over a dataset, you can find the evaluation metrics in this website [PythonCode.zip](http://pione.dinf.usherbrooke.ca/static/code)
   ### 4. Pretrained models
   Please download the ImageNet pretrained models [vgg16](https://pan.baidu.com/s/1Ep83Wc0DHY8rQHaNZM8oPQ) PASSWORD：8tof, and put it under 
   ```
