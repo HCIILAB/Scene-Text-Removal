@@ -81,7 +81,7 @@ def train(args):
     img_wd = args.img_size
     img_ht = args.img_size
     style_layers = [4,9,16]
-    my_train = MyDataSet(args.trainset_path, 'train')
+    my_train = MyDataSet(args.trainset_path, '')
     train_loader = DataLoader(my_train, batch_size=args.batch_size, shuffle=True, last_batch='rollover')
     GAN_loss = gluon.loss.SigmoidBinaryCrossEntropyLoss()
     L1_loss = gluon.loss.L1Loss()
