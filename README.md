@@ -1,4 +1,4 @@
-# Scene Text Eraser Dataset
+# EnsNet: Ensconce Text in the Wild
 
   A synthetic benchmark database for scene text removal is now released by Deep Learning and Vision Computing Lab of South China University of Technology. The database can be downloaded through the following links:
 * Yunpan : (link: https://pan.baidu.com/s/1wwBwgm-n2A7iykoD0i37iQ PASSWORD: vk8f) (Size = 6.3G).
@@ -13,7 +13,7 @@
 The training set of synthetic database consists of a total of 8000 images and the test set contains 800 images; all the training and test samples are resized to 512 × 512. The code for generating synthetic dataset and more synthetic text images as described in “Ankush Gupta, Andrea Vedaldi, Andrew Zisserman, Synthetic Data for Text localisation in Natural Images, CVPR 2016", and can be found in (https://github.com/ankush-me/SynthText).
 Besides, all the real scene text images are also resized to 512 × 512.
 
-For more details, please refer to our [arxiv paper](http://arxiv.org/abs/1812.00723).
+For more details, please refer to our [AAAI 2019 paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3859/3737).  arXiv: http://arxiv.org/abs/1812.00723
 
 ## Requirements
 1. Mxnet==1.3.1
